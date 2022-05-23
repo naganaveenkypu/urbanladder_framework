@@ -1,0 +1,17 @@
+pageobject\AboutPage.class
+uistore\Main1.class
+utilities\ConfigClass.class
+pageobject\StudyPage.class
+reuseability\HelperClass.class
+utilities\BaseClass.class
+pageobject\SofaPage.class
+reuseability\ParentClass.class
+runner\Testcase1.class
+pageobject\HomePage.class
+pageobject\Payment.class
+utilities\ExcelClass.class
+pageobject\Tv.class
+pageobject\LoginPage.class
+pageobject\SearchPage.class
+pageobject\Shipping.class
+pageobject\Giftcards.class
